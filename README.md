@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-# 💫 About Me <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="right" width="300" hspace="20" />
+## 💫 About Me <img src="ezgif.com-speed.gif" align="right" width="300" hspace="280" />
 ## 👋 Hi, I'm Ayush Kumar Patel! I am a passionate developer focused on building intelligent software solutions that bridge the gap between technology and education.<br><br>- 🔭 **Current Focus:** Developing an **AI-Assisted Learning App** designed to personalize education and streamline how students grasp complex topics.<br>- 💻 **Tech Interests:** Full-Stack Development, Artificial Intelligence, and Prompt Engineering.<br>- 🌱 **Learning & Growing:** Actively mastering programming foundations and AI integration to build impactful, real-world applications.<br>- 💬 **Ask me about:** My app's features, learning strategies, or collaborating on cool ideas!
 
 
