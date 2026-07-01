@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats:
 
-<img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" align="right" width="360" style="margin-left: 15px;" />
+<img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" align="right" width="320" style="margin-left: 15px;" />
 
 ![](https://github-readme-stats.shion.dev/api?username=ayushpatell-prog&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ayushpatell-prog&theme=blue_navy&hide_border=false)<br/>
