@@ -1,7 +1,10 @@
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-# 💫 About Me <img src="ezgif.com-speed.gif" align="right" width="300" hspace="280" />
+## 💫 About Me <img src="ezgif.com-speed.gif" width="250" valign="middle" />
 
+<p align="right">
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI4ODU1NTQsIm5iZiI6MTc4Mjg4NTI1NCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzAxVDA1NTQxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmMTMzNTIxYWM1MTk1MmExOTBkYzgxYTBhYTE3MjIzZGYyNDRlZDU0MDYzZDFkYTljYWRjNWViZGI3MmQ3NTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.WrP2AYlsh2H4LJiAa4FPuSA9he1Jr-nf2oCi_TZSHEk" align="right" width="400" style="margin-left: 20px;" />
+</p>
 🚀 **Developer** passionate about building intelligent software solutions that bridge the gap between technology and education.
 
 🔧 **Currently building** an **AI-Assisted Learning App** designed to personalize education and streamline how students grasp complex topics.<br>
